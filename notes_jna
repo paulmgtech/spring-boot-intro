@@ -1,0 +1,2 @@
+gcc -shared -o sum.dll sum.cpp
+https://www.cnblogs.com/ll409546297/p/11534886.html
